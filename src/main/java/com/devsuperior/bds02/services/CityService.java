@@ -43,7 +43,5 @@ public class CityService {
 	            throw new DatabaseException("Falha de integridade referencial");
 	        }
 	    }
-	
-
-	
+		
 }
